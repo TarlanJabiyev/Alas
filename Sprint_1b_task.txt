@@ -1,0 +1,13 @@
+﻿Sprint_1b task
+
+
+1) s = "Programming" yaradın. Uzunluğunu və ilk simvolunu çap edin.
+2) s1 = "Hello" və s2 = "World" yaradın. Onları boşluqla birləşdirin və nəticəni çap edin.
+3) text = "Python" yaradın. Son simvolunu çap edin.
+4) s = "Artificial" yaradın. "Art" hissəsini ilə çıxarın və çap edin.
+5) word = "Code" yaradın. Tərsinə çevirin və nəticəni çap edin.
+6) s = "abcdefgh" yaradın. Hər ikinci simvolu alın və çap edin.
+7) text = "data" yaradın. Onu bir sətrlik kodla böyük hərflərə və kiçik hərflərə çevirib çap edin.
+8) s = "Python-R-Java" yaradın. "-" ilə ayırın (split("-")) və nəticəni çap edin.
+9) ad = "Ayxan" və yaş = 25 yaradın. f-string ilə "Ayxan 25 yaşındadır" çap edin.
+10) s = "salam-dunya" yaradın. "-"ni boşluqla əvəz edin və nəticəni çap edin.

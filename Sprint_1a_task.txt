@@ -1,0 +1,13 @@
+﻿Sprint_1a task
+
+
+1) 123 rəqəmini string/character ə çevirin və tipini yoxlayın.
+2) 19.99 dəyərini tam ədədə çevirin və nəticəni çap edin.
+3) "500" dəyərini numericə çevirin və 2-yə bölüb nəticəni çap edin.
+4) a = 8 və b = 12 yaradın. a < b və a == b şərtlərini yoxlayın, nəticələri çap edin.
+5) x = 5, y = 10, z = 15 yaradın. (x < y) and (y < z) şərtini yoxlayın və nəticəni çap edin.
+6) 25-i 4-ə bölün. Tam bölmə, qalıq və adi bölmə nəticələrini çap edin.
+7) 3-ü 4-cü dərəcəyə qaldırın və nəticəni çap edin.
+8) qiymet = 75.5 yaradın. Onu tam ədədə çevirin və tipini yoxlayın.
+9) n = 20 yaradın. (n > 10) or (n < 5) və (n > 15) and (n < 25) şərtlərini yoxlayın, nəticələri çap edin.
+10) "42.8" dəyərini əvvəl float-a, sonra tam ədədə çevirin və hər addımda tipi yoxlayın.
