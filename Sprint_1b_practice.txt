@@ -1,0 +1,19 @@
+Sprint_1b practice
+
+
+1a) ad = "Aysel" və yaş = 20 dəyişənlərini yaradın.
+1b) Hər iki dəyişənin tipini yoxlayın.
+1c) yaş-ı string/character ə çevirin və yeni tipini çap edin.
+
+2a) ad = "Ali" və soyad = "Vəliyev" dəyişənlərini yaradın.
+2b) Bu ikisini boşluqla birləşdirin və nəticəni çap edin.
+2c) ad-ın ilk simvolunu və soyad-ın son simvolunu çap edin.
+
+3a) s = "Data Science" sətrini yaradın.
+3b) "at" sözünü dilimləmə ilə çıxarın və çap edin.
+3c) s dəyişənini tərsinə çevirin (rev(strsplit()) ilə) və nəticəni göstərin.
+3d) s dəyişəninin hamısını böyük hərflərə çevirin və göstərin.
+
+4a) ad = "Elvin" və bal = 85.5 dəyişənlərini yaradın.
+4b) "Elvinin balı: 85.5dir" çap edin.
+4c) 7b ilə birlikdə alt sətrdə “Uğurlar” çap edin.

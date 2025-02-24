@@ -1,0 +1,12 @@
+Sprint_1a practice
+
+1a) "25.7" sətrini float/numeric tipinə çevirin və nəticəni çap edin.
+1b) 3.9 float dəyərini tam ədədə çevirin və nəticənin tipini çap edin.
+
+2a) x = 15 və y = 10 dəyişənlərini yaradın.
+2b) x > y və x != y şərtlərini yoxlayın, nəticələri çap edin.
+2c) Bu iki şərti and/& operatoru ilə birləşdirin və nəticəni göstərin.
+
+3a) 17-ni 3-ə bölün və nəticəni çap edin.
+3b) Eyni bölmənin tam hissəsini və qalığını hesablayın.
+3c) 5-ni 5-ci dərəcəyə qaldırın (5in 5 üstü) və nəticəni göstərin.
