@@ -1,0 +1,16 @@
+﻿Sprint_2b_task
+
+
+1) 10, 20, 30, 40 elementlərindən ibarət s1 adlı series/vector yaradın
+2) s1-ə 'w', 'x', 'y', 'z' indekslərini təyin edin
+3) Python: {'p': 5, 'q': 10, 'r': 15} dictionary-dən s2 adlı Series yaradın
+    R: list(p = 5, q = 10, r = 15) listindən v2 adlı named vektor yaradın
+4) s2-dən 'q' indeksli elementi seçin
+5) s1-dən 25-dən böyük elementləri seçin
+6) s1-də 20-dən böyük elementləri 10-a bölün 
+7) ((1, 2), (3, 4)) listindən/vectorundan df1 adlı dataframe yaradın
+8) df1-ə ('r1', 'r2') sətir və ('c1', 'c2') sütun adlarını təyin edin
+9) Python: {'A': [1, 2], 'B': [3, 4]} dictionary-dən df2 yaradın
+    R: list(A = c(1, 2), B = c(3, 4)) listindən df2 yaradın 
+10) df2-dən 'r1' sətrini seçin
+11) df2-də 'A' sütunu 1-dən böyük olan sətirləri seçin
