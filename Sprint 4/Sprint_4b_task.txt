@@ -1,0 +1,12 @@
+﻿Sprint_4b_task
+
+
+1) (1 + "a") kodu try() ilə əhatə edin. Əgər xəta baş verərsə, nəticəyə "Xəta baş verdi" mətnini qaytarın.
+2) func_divide <- function(a, b) { return(a / b) } funksiyasını istifadə edərək aşağıdakı senarini tryCatch ilə qorumağa çalış:
+Əgər b = 0 olarsa, "Sıfıra bölmək mümkün deyil" mesajı verilsin. Əks halda nəticəni çap 
+3) [100, 200, 300, 400] qiymətlərinə 18% vergi əlavə etmək üçün apply ailəsindən bir funksiya istifadə edin.
+4) df <- data.frame(A = c(1, 2, NA, 4),
+                    B = c(5, NA, 7, 8),
+                    C = c(9, 10, 11, 12))
+apply ailəsindən 1 funksiya istifadə edərək sətirlərin ortalamasını na.rm = TRUE ilə hesabla.
+5) [150, 80, 220, 45] siyahısından ən kiçik qiyməti reduce() ilə tapın.

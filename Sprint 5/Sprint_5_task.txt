@@ -1,0 +1,8 @@
+﻿Sprint_a_task
+
+
+1) "Maşın" adlı sinif yaradın. Hər obyektin markası, modeli və buraxılış ili olsun. Bu sinifdən 3 fərqli maşın obyekti yaradın və onların məlumatlarını çap edin.
+2) "Kitab" adlı sinif yaradın. Bu sinifdə __str__, __len__, __eq__ metodlarını override edin ki, kitabın adı və səhifə sayı istifadə oluna bilsin və iki kitab səhifə sayına görə müqayisə oluna bilsin.
+3) "Temperature" adlı sinif yaradın. Bu sinifdə @staticmethod istifadə edərək Celsius-dan Fahrenheit-ə çevirmə funksiyası yazın(googleda düstura baxın). @classmethod ilə obyektin məlumatlarına əsasən yeni Temperature obyekti yaradın.
+4) "Employee" adlı əsas sinif yaradın. "Manager" və "Developer" bu sinifdən miras alsın. Onlara uyğun spesifik metodlar əlavə edin (məsələn, Manager işçiləri idarə edir, Developer proqram yazır).
+5) Bir bank sistemində istifadəçi hesablarını idarə edən bir sinif yaradın. Hər istifadəçinin adı, balansı və unikal ID-si olsun. OOP prinsiplərinə uyğun şəkildə encapsulation və abstraction tətbiq edin.

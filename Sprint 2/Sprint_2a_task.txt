@@ -1,0 +1,15 @@
+﻿Sprint_2a_task
+
+
+1) 5, 10, 15, 20 rəqəmlərindən ibarət “rəqəmlər” adlı list/vector yaradın
+2) “rəqəmlər” listinin/vectorunun uzunluğunu tapın
+3) “rəqəmlər” listinə/vectoruna 25 elementini əlavə edin
+4) “rəqəmlər” listinin/vectorunun 2-ci indeksinə 12 elementini əlavə edin
+5) 1, 2, 3 və 4, 5, 6 listlərini/vectorlarını birləşdirin
+6) “rəqəmlər” listindən/vectorundan 2-ci və 3-cü elementləri seçin
+7) “rəqəmlər” listinin/vectorunun ilk elementini 50 ilə əvəz edin 
+8) “rəqəmlər” listində/vectorunda 19 elementinin olub-olmadığını yoxlayın
+9) "a", "b", "a", "c" listində/vectorunda "a" elementinin neçə dəfə təkrarlandığını tapın
+10) "x", "y", "x", "z" listindən/vectorundan "x" elementlərini silin
+11) 7, 2, 9, 1 listini/vectorunu azalan sırayla sıralayın
+12) “rəqəmlər” listindən/vectorundan 10-dan böyük elementləri seçin
