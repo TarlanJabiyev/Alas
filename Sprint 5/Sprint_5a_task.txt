@@ -1,0 +1,6 @@
+﻿Sprint_5a_task
+
+
+1) "Maşın" adlı sinif yaradın. Hər obyektin markası, modeli və buraxılış ili olsun. Bu sinifdən 3 fərqli maşın obyekti yaradın və onların məlumatlarını çap edin.
+2) "Kitab" adlı sinif yaradın. Bu sinifdə __str__, __len__, __eq__ metodlarını override edin ki, kitabın adı və səhifə sayı istifadə oluna bilsin və iki kitab səhifə sayına görə müqayisə oluna bilsin.
+3) "Temperature" adlı sinif yaradın. Bu sinifdə @staticmethod istifadə edərək Celsius-dan Fahrenheit-ə çevirmə funksiyası yazın(googleda düstura baxın). @classmethod ilə obyektin məlumatlarına əsasən yeni Temperature obyekti yaradın.

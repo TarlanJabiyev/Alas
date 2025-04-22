@@ -1,0 +1,5 @@
+﻿Sprint_5b_task
+
+
+1) "Employee" adlı əsas sinif yaradın. "Manager" və "Developer" bu sinifdən miras alsın. Onlara uyğun spesifik metodlar əlavə edin (məsələn, Manager işçiləri idarə edir, Developer proqram yazır).
+2) Bir bank sistemində istifadəçi hesablarını idarə edən bir sinif yaradın. Hər istifadəçinin adı, balansı və unikal ID-si olsun. OOP prinsiplərinə uyğun şəkildə encapsulation və abstraction tətbiq edin.
