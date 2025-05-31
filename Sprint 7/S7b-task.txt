@@ -1,0 +1,14 @@
+Sprint 7b task
+
+1) A, B, C hadisələrinin ehtimalları P[A]=0.5, P[B]=0.2, P[C]=0.4 olduqda, tapın:
+	a) A və B müstəqil (independent) olduqda P[A U B] 
+	b) A və B birləşməmiş (disjoint) olduqda P[A U B]
+	c) A və B müstəqil (independent) olduqda P[A U B U C] 
+2) İki dost Vüqar və Elşad imtahanda iştirak edirlər. A Vüqarın seçilmə hadisəsi (event), B isə Elşadın seçilmə hadisəsi (event) olsun. A ehtimalı 2/5, B ehtimalı isə 3/7-dir. Onların hər ikisinin seçilmə ehtimalını tapın.
+3) 52 kartdan ibarət yaxşı qarışdırılmış dəstədən bir kart çəkilir. Kraliça (queen) və ya klub (club) kartı olma ehtimalı nədir?
+4) Mənim şəhərimdə günlərin üçdə biri yağışlıdır. Yağışlı olduğunu nəzərə alsaq, 1/2 ehtimalı ilə, yağışlı olmadığını nəzərə alsaq, 1/4 ehtimalı ilə nəqliyyatın sıxlığı müşahidə olunacaq. Yağış və tıxac varsa, 1/2 ehtimalla işə gecikirəm. Digər tərəfdən, yağışın olmadığı və sıxlıq olmadığı təqdirdə gecikmə ehtimalım 1/8-ə enir. Digər hallarda (yağışlı və tıxac olmadıqda, yağışsız və tıxac olduqda) gecikmə ehtimalı 0,25-dir. Siz təsadüfi bir gün seçirsiniz.
+  a) Yağış yağmır və tıxac varsa gecikməmə ehtimalımı tapın.
+  b) Gecikmə ehtimalımı tapın.
+  c) İşə gec gəldiyimi nəzərə alsaq, həmin gün yağışlı olma ehtimalı nədir?
+5) E-poçtların 50%-nin spam olduğu müşahidə edilir. Gələnlər qutusuna çatmazdan əvvəl spam məktubları filtrləyən bir proqram var. Spam poçtu aşkar etmək dəqiqliyi 99%, qeyri-spam e-poçtu isə spam poçt kimi etiketləmək şansı 5% təşkil edir. Müəyyən bir e-poçt spam olaraq qeyd olunursa, bunun spam olmama ehtimalını tapın. (Bayes’ Theorem istifadə edin)
+

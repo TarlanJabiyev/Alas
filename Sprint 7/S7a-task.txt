@@ -1,0 +1,7 @@
+Sprint 7a task
+
+1) directmail.csv datasına "income", "educ" və "age" dəyişənləri üçün tezlik cədvəlləri (frequency tables) yaradın.
+2) newspapers.csv datasında "political" və "age" dəyişənləri üçün tezlik cədvəlləri (frequency tables) yaradın.
+3) hw.csv datasında "weight" və "height" dəyişənləri üçün histoqramlar qurun. Alınan qrafik barədə fikirlərinizi əsaslandırın.
+4) math.csv datasında “grade1” və “grade2” dəyişənləri üçün kumulativ tezlik xətt qrafikləri (cumulative frequency line charts) yaradın. Alınan qrafik barədə fikirlərinizi əsaslandırın.
+5) directmail.csv datasında "age" və "income" dəyişənləri üçün boxplot qrafiki qurun. Alınan qrafik barədə fikirlərinizi əsaslandırın.
