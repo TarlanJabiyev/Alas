@@ -1,0 +1,6 @@
+Sprint 6b task
+
+1) bankloan.csv datasında "balance" dəyişəni üçün əsas statistik göstəriciləri müəyyən edin. Alınan nəticə barədə fikirlərinizi əsaslandırın.
+2) directmail.csv datasında "age" dəyişəni üçün əsas statistik göstəriciləri müəyyən edin. Alınan nəticə barədə fikirlərinizi əsaslandırın.
+3) icecream.csv datasında "icecream" dəyişəni üçün “skewness” və “kurtosis” göstəricilərini müəyyən edin. Sonra eyni dəyişən üçün 7%, 38% və 72% faizlikləri hesablayın və “mode” tapın. Alınan nəticə barədə fikirlərinizi əsaslandırın.
+4) Tapşırıq 3də olan əməliyyatları math.csv datasında "grade1" dəyişəni üçün təkrar edin. Alınan nəticə barədə fikirlərinizi əsaslandırın.
