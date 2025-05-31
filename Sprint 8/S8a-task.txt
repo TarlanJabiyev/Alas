@@ -1,0 +1,16 @@
+Sprint 8a task
+
+1) Aşağıdakı dəyişənlərin həm numerikal, həm də qrafikal üsullardan istifadə edərək normal paylanıb-paylanmadığını müəyyən edin. Alınan nəticə barədə fikirlərinizi əsaslandırın.
+	bankloan.csv faylında balance dəyişəni
+	countries.csv faylında literacy dəyişəni
+	mobilenet.csv faylında hours dəyişəni
+
+2) Task 1də istifadə edilən dəyişənlərdə “outliers” olub-olmadığını müəyyənləşdirin. Alınan nəticə barədə fikirlərinizi əsaslandırın.
+
+3) hw.csv data faylında subyektlərin orta çəkisinin 75 kiloqramdan aşağı olub-olmadığını yoxlamaq üçün “one-simple t test” – dən istifadə edin. Alınan nəticə barədə fikirlərinizi əsaslandırın.
+
+4) mobilenet.csv data faylında internetdə sərf olunan saatların orta miqdarının 9-dan çox olub-olmadığını yoxlamaq üçün “one-simple t test” – dən istifadə edin. Alınan nəticə barədə fikirlərinizi əsaslandırın.
+
+5) bankloan.csv data faylında krediti olan subyektlərin faizinin 10%-dən çox olub-olmadığını yoxlamaq üçün “binomial test” – dən istifadə edin. Alınan nəticə barədə fikirlərinizi əsaslandırın.
+
+6) directmail.csv data faylında educ (education level) dəyişəni ilə bərabər nəzəri ehtimallardan istifadə edərək “Chi-Square Test” –ni yerinə yetirin. Alınan nəticə barədə fikirlərinizi əsaslandırın.

@@ -1,0 +1,9 @@
+Sprint 8b task
+
+1) mobilenet.csv data faylında Pearson, Spearman və Kendall korrelyasiyasından istifadə edərək internetdə sərf olunan saatların sayı ilə gəlir arasında əlaqənin olub olmadığını müəyyənləşdirin. Alınan nəticə barədə fikirlərinizi əsaslandırın.
+
+2) countries.csv data faylında Pearson, Spearman və Kendall korrelyasiyasından istifadə edərək şəhərlərdə (urban) yaşayan insanların faizi ilə ümumi daxili məhsul (gdp) arasında əlaqənin olub-olmadığını müəyyənləşdirin. Alınan nəticə barədə fikirlərinizi əsaslandırın.
+
+3) countries.csv data faylında şəhərlərdə (urban) yaşayan insanların faizi ilə ümumi daxili məhsul (gdp) arasındakı əlaqəni hesablayın və oxuyan insanların faizinin təsirini (literacy) “control variable” olaraq istifadə edin. Alınan nəticə barədə fikirlərinizi əsaslandırın.
+
+4) directmail.csv data faylında gəlir və educ (education level) dəyişəni arasında əlaqənin olub-olmadığını müəyyən etmək üçün “Chi-Square Test” –ni yerinə yetirin. Alınan nəticə barədə fikirlərinizi əsaslandırın.
