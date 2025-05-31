@@ -1,0 +1,11 @@
+Sprint 9a task
+
+1) students.csv data faylında “male” və “female” tələbələr arasında orta bal fərqinin olub-olmadığını yoxlayın. (Male=1, Female=0) Alınan nəticə barədə fikirlərinizi əsaslandırın.
+
+2) bankloan.csv data faylında krediti olan (loan=”yes”) və olmayan (loan=”no”) insanlar arasında ortalama balansda (average balance) fərqin olub-olmadığını müəyyənləşdirin. Alınan nəticə barədə fikirlərinizi əsaslandırın.
+
+3) gym.csv data faylında Rumıniya və ABŞ-dan olan hakimlər tərəfindən verilən orta bal (average score) arasında fərqin olub-olmadığını müəyyənləşdirin. Alınan nəticə barədə fikirlərinizi əsaslandırın.
+
+4) incomedata.csv data faylında One-Way analizindən istifadə edərək şəxslərin gəlirlərinə onların təhsil səviyyəsinin (education level) təsir edib-etmədiyini müəyyənləşdirin. Alınan nəticə barədə fikirlərinizi əsaslandırın.
+
+5) incomedata.csv data faylında Two-Way analizindən istifadə edərək şəxslərin gəlirlərinə onların təhsil səviyyəsinin (education level) və yaşının (age) təsir edib-etmədiyini müəyyənləşdirin. Alınan nəticə barədə fikirlərinizi əsaslandırın.

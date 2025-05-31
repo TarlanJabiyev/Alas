@@ -1,0 +1,151 @@
+1) bankloan.csv datasında "balance" dəyişəni üçün əsas statistik göstəricilər hesablanır. Hansı göstəricilər adətən əsas statistik göstəricilərə daxildir? (Birdən çox cavab düzgün ola bilər)
+A) Mean
+B) Median
+C) Skewness
+D) Mod
+E) Standart sapma
+
+Düzgün cavablar: A, B, D, E
+
+2) icecream.csv datasında "icecream" dəyişəninin çəpikliyi müsbətdir. Bu, paylanmanın necə olduğunu göstərir?
+A) Simmetrik paylanma
+B) Sola Skewness paylanma
+C) Sağa Skewness paylanma
+D) Bərabər paylanma
+
+Düzgün cavab: C
+
+3) icecream.csv datasında "icecream" dəyişəni üçün 72%-lik percentile hesablanır. Bu dəyər nəyi ifadə edir?
+
+A) Məlumatların 72%-nin altında olan dəyər
+B) Məlumatların 72%-nin üstündə olan dəyər
+C) Üst 72%-nin ortası
+D) Üst 72%-də ən çox təkrarlanan dəyər
+E) Alt 72%-nin dispersiyası
+
+Düzgün cavab: A
+
+4) math.csv datasında "grade1" dəyişəninin kurtosisi yüksəkdir (leptokurtik). Bu, paylanmanın hansı xüsusiyyətlərini göstərir? (Birdən çox cavab düzgün ola bilər)
+A) Yastı paylanma
+B) Yüksək pik (dar paylanma)
+C) Yüngül quyruqlu paylanma
+D) Çəpik paylanma
+
+Düzgün cavablar: B
+
+5) directmail.csv datasında "income" dəyişəni üçün tezlik cədvəli yaradılır. Bu cədvəl hansı məqsədlər üçün istifadə oluna bilər? (Birdən çox cavab düzgün ola bilər)
+A) Orta gəlir dəyərlərini hesablamaq
+B) Gəlirin kateqoriyalar üzrə paylanmasını göstərmək
+C) Gəlir ilə digər dəyişənlər arasında korrelyasiyanı təhlil etmək
+D) Gəlirin kumulativ faizini hesablamaq
+E) Məlumatların anomaliyalarını müəyyənləşdirmək
+
+Düzgün cavablar: B, D
+
+6) hw.csv datasında "weight" dəyişəni üçün histoqram qurulur. Histoqramın əsas məqsədi nədir?
+A) İki dəyişən arasındakı əlaqəni göstərmək
+B) Tək dəyişənin tezlik paylanmasını göstərmək
+C) Orta və medianı hesablamaq
+D) Yalnız anomaliyaları müəyyənləşdirmək
+E) Kumulativ tezlikləri göstərmək
+
+Düzgün cavab: B
+
+7) math.csv datasında "grade1" dəyişəni üçün kumulativ tezlik xətt qrafiki qurulur. Bu qrafik nəyi göstərir?
+A) Hər qiymət dəyərinin tezliyini
+B) Hər qiymət dəyərinə qədər məlumatların kumulativ payını
+C) Grade1 və grade2 arasındakı korrelyasiyanı
+D) Grade1-in grade2 ilə müqayisədə paylanmasını
+E) Grade1-in dispersiyasını
+
+Düzgün cavab: B
+
+8) directmail.csv datasında "age" və "income" dəyişənləri üçün boxplot qrafiki qurulur. Boxplot hansı statistik göstəriciləri göstərir? (Birdən çox cavab düzgün ola bilər)
+A) Orta və standart sapma
+B) Kvartillərarası məsafə (IQR)
+C) Minimum və maksimum dəyərlər
+D) Mediana
+E) Çəpiklik və kurtosis
+
+Düzgün cavablar: B, C, D
+
+9) bankloan.csv datasında "balance" dəyişəninin normal paylanıb-paylanmadığını yoxlamaq üçün hansı qrafik metodlar istifadə oluna bilər? (Birdən çox cavab düzgün ola bilər)
+A) Səpələnmə qrafiki
+B) Histoqram
+C) Q-Q Plot
+D) Boxplot
+E) Dairəvi diaqram
+
+Düzgün cavablar: B, C
+
+10) hw.csv datasında orta çəkinin 75 kq-dan aşağı olub-olmadığını yoxlamaq üçün bir nümunəli t-test istifadə olunur. Aşağı p-dəyər nəyi göstərir?
+A) Ortanın 75 kq-dan xeyli yuxarı olması
+B) Ortanın 75 kq-dan xeyli aşağı olması
+C) Ortanın tam 75 kq olması
+D) 75 kq-dan fərqlənməməsi
+E) Testin qeyri-müəyyən olması
+
+Düzgün cavab: B
+
+11) mobilenet.csv datasında numeric dəyişənlər arası qeyri-xətti əlaqələr üçün hansı korrelyasiya əmsalları daha uyğundur? (Birdən çox cavab düzgün ola bilər)
+A) Pearson
+B) Spearman
+C) Kendall
+D) Chi-Square
+E) ANOVA
+
+Düzgün cavablar: B, C
+
+12) students.csv datasında kişi və qadın tələbələrin orta ballarını müqayisə etmək üçün hansı statistik test uyğundur?
+A) Chi-Square Test
+B) One-Way ANOVA
+C) İki nümunəli T-Test
+D) Binomial Test
+E) Pearson Korrelyasiyası
+
+Düzgün cavab: C
+
+13) incomedata.csv datasında təhsil səviyyəsinin gəlirə təsirini yoxlamaq üçün One-Way ANOVA istifadə olunur. Əgər p-dəyər 0.01-dirsə, bu nəyi göstərir? (Birdən çox cavab düzgün ola bilər)
+A) Təhsil səviyyələri arasında gəlirdə əhəmiyyətli fərq yoxdur
+B) Ən azı bir təhsil səviyyəsinin orta gəliri digərlərindən fərqlidir
+C) Təhsil səviyyəsinin gəlirə təsiri statistik cəhətdən əhəmiyyətlidir
+D) Bütün təhsil səviyyələrinin orta gəliri eynidir
+E) Gəlirin paylanması normaldır
+
+Düzgün cavablar: B, C
+
+14) Aşağıdakılardan hansılar şərti ehtimalın hesablanması üçün istifadə oluna bilər? (Birdən çox cavab düzgün ola bilər)
+A) P(A ∩ B) / P(B)
+B) P(A ∩ B) / P(A)
+C) P(A ∪ B) / P(B)
+D) P(A | B) × P(B)
+E) P(A) + P(B)
+
+Düzgün cavablar: A, B
+
+15) “A” avtomobil salonunda maşınların 70%-də kondisioner, 40%-də GPS var, 20%-də isə hər ikisi var. Bayes teoreminə əsasən, aşağıdakılardan hansılar kondisioner olan maşında GPS olma ehtimalını hesablamaq üçün lazımdır? (Birdən çox cavab düzgün ola bilər)
+A) P(Kondisioner ∩ GPS) = 0.2
+B) P(Kondisioner) = 0.7
+C) P(GPS) = 0.4
+D) P(GPS | Kondisioner olmayan) = 0.2 / 0.3
+E) P(Kondisioner | GPS) = 0.5
+
+Düzgün cavablar: A, B
+
+Qeyd: Şərti ehtimal P(GPS | Kondisioner) = P(Kondisioner ∩ GPS) / P(Kondisioner) = 0.2 / 0.7 ilə hesablanır (səhifə 12).
+
+
+Reqression tasks
+
+16) vehicles.csv data faylında “engine”, “horsepow”, “wheelbase”, “width”, “length”, "weight" və “fuelcap” dəyişənlərinin “price” dəyişəninə təsirini ölçmək üçün reqressiya analizi qurun. Alınan nəticə barədə fikirlərinizi əsaslandırın.
+
+17) bankloan.csv data faylında müştəri balansının (balance) aşağıdakı dəyişəndən asılı olub olmadığını müəyyən etmək üçün reqressiya təhlili aparın:
+- yaş (age)
+- onların krediti olub-olmaması (loan)
+Alınan nəticə barədə fikirlərinizi əsaslandırın.
+
+18) marketingdb.csv data faylında verilənlər çərçivəsində binomial reqressiya yerinə yetirin:
+asılı dəyişən - “union” (həmkarlar ittifaqı üzvüdür ya yox)
+müstəqil dəyişənlər - “ed” (təhsil illəri), “jobsat” (iş məmnunluğu) və “polview” (siyasi baxış). 
+Alınan nəticə barədə fikirlərinizi əsaslandırın.
+
