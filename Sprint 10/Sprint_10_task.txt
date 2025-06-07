@@ -1,0 +1,10 @@
+﻿Sprint_10 task
+
+1) Hər bir qitə üzrə həyat gözləniləni ən çox olan ölkəni tap və onları azalan sırada düz. 
+2) Hər bir region üçün ümumi GDP-ni hesabla. Ən yüksək GDP-yə malik ilk 5 regionu çıxar.
+3) population dəyəri 2000 və 2013 illəri arasında ən azı 2 dəfə artan ölkələri çıxar. Artım faktorunu ayrıca sütun kimi əlavə et.
+4) Ümumi dünya üzrə orta life_expectancy-ni tap. Sonra yalnız bu ortalamadan yuxarı olan ölkələri çıxar. Hər biri üçün fərqi fərq adlı sütunla göstər.
+5) Yeni dəyişən yarat: sosial_index = life_expectancy * gdp / population. 
+   Bu indeksi hesabla və ən yüksək sosial_index-ə malik 10 ölkəni çıxar.
+6) Avropa və Asiya qitələrinin 2000 və 2013 illərindəki orta life_expectancy, gdp və population dəyərlərini müqayisə et.
+7) Hər region üçün life_expectancy-dəki variasiyanı (max - min) hesabla. Ən yüksək fərqə malik ilk 5 regionu tap.
