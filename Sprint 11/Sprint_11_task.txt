@@ -1,0 +1,20 @@
+﻿Sprint_11 task
+
+1) starwars datasında:
+ - name sütununda "rth" strinqi ehtiva edən dəyərləri göstərin;
+ - homeworld sütunundakı dəyərlərdəki boşluqları (" ") alt xətt ("_") ilə əvəz edin.
+
+2) text <- c("Salam, Dünya!", "Python proqramlaşdırma dili", "tidyverse ilə işləmək maraqlıdır", "Data Science"):
+ - Hər bir dəyərdə "a" hərfinin neçə dəfə təkrarlandığını tapın;
+ - Hər bir dəyərdə ilk 5 simvolu çıxarın
+ 
+3) df <- tibble(id = 1:4,
+                region_A = c(100, 150, 200, 250),
+                region_B = c(120, 170, 220, 270),
+                region_C = c(130, 180, 230, 280)):
+ - datanı unpivot edin, sütunlar "region" adı altında toplansın (sütunlar: region_A, region_B, region_C);
+ - region sütununu iki hissəyə ayırın;
+ - yeni yaranan sütunları " - " ilə birləşdirin;
+ - nəticəni pivot edin.
+
+4) "Join tasks.xlsx"dakı tapşırıqların kodlarını hazırlayın. 
