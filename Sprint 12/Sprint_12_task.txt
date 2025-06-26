@@ -1,0 +1,10 @@
+﻿Sprint_12 task
+
+DATA:
+ - R: 'data <- datasets::mtcars'
+ - Python: 'from plotnine.data import mtcars'
+
+1) mtcars datasında avtomobillərin orta yanacaq sərfiyyatını (mpg) silindr sayı (cyl) üzrə müqayisə edən interaktiv pie chart yaradın.
+2) disp (mühərrik həcmi) ilə mpg (yanacaq sərfiyyatı) arasındakı əlaqəni göstərən scatter plot yaradın. Nöqtələrin ölçüsü hp (at gücü) ilə, rəngi isə am (ötürücü tipi: 0 = avtomatik, 1 = manuel) ilə təyin olunsun.
+3) Hər bir silindr sayı (cyl) üzrə orta mpg dəyərlərini göstərən bar plot yaradın. Ötürücü tipinə (am) görə yan-yana barlar çəkilsin.
+4) cyl (silindr sayı) üzrə mpg dəyərlərinin ötürücü tipinə (am) görə paylanmasını göstərən box plot yaradın. 
