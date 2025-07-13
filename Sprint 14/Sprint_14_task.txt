@@ -1,0 +1,16 @@
+﻿Sprint_14 task
+
+gapminder datasında SQL tapşırıqlar:
+
+1. 2000-ci ildən sonrakı qeydləri seç
+2. "Asia" qitəsində olan ölkələr və 2007-ci ildəki GDP
+3. Əhali sayı 100 milyon olan ölkələrin post-sovet dövründəki məlumatları
+4. "life_expectancy" 80-dən çox olan qeydləri life_exp_high kimi göstər
+5. 2007-ci ildə ən çox GDP-yə sahib ölkə
+6. Hər bir qitəyə görə orta ömür uzunluğu
+7. Ən az əhaliyə sahib ölkə və ili
+8. Hər bir ölkə üçün ən yüksək GDP olan ili tap
+9. Ölkə adlarında "land" sözü olan qeydlər
+10. Hər bir ölkənin qeydlər sayını tap
+11. Ən çox qeydi olan 5 ölkə
+12. Qitələr üzrə illik orta həyat uzunluğunun dəyişimini tap
