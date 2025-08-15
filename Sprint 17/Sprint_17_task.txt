@@ -1,0 +1,4 @@
+Sprint_17 task
+
+'cancer_reg.csv' datası üçün xətti reqressiya modeli qurun. 
+Hədəf dəyişən: 'TARGET_deathRate'
