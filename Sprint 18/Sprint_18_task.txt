@@ -1,0 +1,4 @@
+Sprint_18 task
+
+'Churn_Modeling.csv' datası üçün logistic reqression modeli qurun. 
+Hədəf dəyişən: 'Exited'
