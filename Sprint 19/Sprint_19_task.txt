@@ -1,0 +1,10 @@
+Sprint_19 task
+
+1) 'cancer_reg.csv' datası üçün reqressiya algoritmalarını tətbiq edin.
+Sonda R2 score a görə modelləri sıralayın.
+Hədəf dəyişən: 'TARGET_deathRate'
+
+2) 'Churn_Modeling.csv' datası üçün klassifikasiya algoritmalarını tətbiq edin.
+Sonda F score a görə modelləri sıralayın.
+Hədəf dəyişən: 'Exited'
+
